@@ -20,7 +20,7 @@ Getting Started
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/candidate-application-platform.git
+git clone https://github.com/Rahul20038/Frontend-Interview-Assessment.git
 
 Install dependencies:
 bash
